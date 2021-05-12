@@ -1,0 +1,3 @@
+include ':WireGuardLibrary'
+include ':app'
+rootProject.name = "EmbedWireGuard"
